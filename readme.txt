@@ -1,3 +1,3 @@
-1) Відкриваєм два термінали (клієнт та сервер)
-2) Запускаємо ноду node src/index.js і реакт npm start
-3) Заходим на актуальний айпі і граємо
+1) Open two terminals (client and server)
+2) Run node node src/index.js and react npm start
+3) Go to the current IP and play
